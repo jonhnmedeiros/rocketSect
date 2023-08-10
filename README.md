@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Treine.me" title="Treine.me" src=".github/treine-me_logo.png" />
+  <img alt="Rocket.sect" title="Rocket.sect" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Treine.me" src=".github/treine-me.png" width="100%">
+  <img alt="Treine.me" src=".github/rocketSect.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,12 +30,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O treine.me é um projeto inicial de página para um serviço de treinos personalizados.
-Você pode acessar o projeto [nesse link](https://jonhnmedeiros.github.io/explorer_projeto2).
+O Rocket.sect é um projeto inicial de página para serviço de proteção de dados para estudos.
+Você pode acessar o projeto [nesse link](https://jonhnmedeiros.github.io/rocketSect).
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/aPqCbVHfAbtZUE7NaUvfKi/Treine.me?type=design&t=CR76TGmTL2jb8hXj-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/j3cdionsW1EBNgcyBrpbWL/Rocket.sect?node-id=16%3A106&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
